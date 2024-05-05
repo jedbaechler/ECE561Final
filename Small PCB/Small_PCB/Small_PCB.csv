@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,Quantity,LCSC Part Number
+Transistor,"Q1,Q2",SOT-23,2,
+10K Resistor,"R3,R7,R5,R6,R8",R_0201_0603Metric,5,C304501
+Green LED,D1,LED_0805_2012Metric,1,C5151479
+BMP280 Sensor,U1,Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,1,
