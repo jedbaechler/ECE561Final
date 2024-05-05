@@ -1,8 +1,0 @@
-Presentation Video Link:
-	https://youtu.be/gTYhT-rIvSc
-
-Demo Video Link:
-	https://youtu.be/XWEDh5C_IR4
-
-GitHub Source Code Repository:
-	https://github.com/jedbaechler/ECE561Final
